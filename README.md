@@ -12,3 +12,5 @@ _A Personnel coding challenge to get started with the flow the key is being cons
 ![Let's Get Going !!](https://github.com/demaria11/20_Days_of_Code/blob/main/Images/pexels-riccardo-bresciani-303040.jpg)
 
 ---
+
+Day_01 : 12-Dec-2020(Friday)
