@@ -2,10 +2,12 @@
 
 > Compute the mean, median, mode, and standard deviation.
 
-**Objective**  
+**Objective** 
+
 In this challenge, we practice calculating the _mean_, _median_, and _mode_. Check out the [Tutorial](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/challenges/s10-basic-statistics/tutorial) tab for learning materials and an instructional video!
 
 **Task**  
+
 Given an array, , of integers, calculate and print the respective _mean_, _median_, and _mode_ on separate lines. If your array contains more than one _modal value_, choose the numerically smallest one.
 
 **Note:** Other than the modal value (which will always be an integer), your answers should be in decimal form, rounded to a scale of decimal place (i.e., , format).
@@ -42,15 +44,18 @@ Print lines of output in the following order:
 
 **Explanation**
 
-**Mean:**  
+**Mean:** 
+
 We sum all elements in the array, divide the sum by , and print our result on a new line.
 
-**Median:**  
+**Median:** 
+
 To calculate the median, we need the elements of the array to be sorted in either non-increasing or non-decreasing order. The sorted array . We then average the two middle elements:
 
 and print our result on a new line.
 
-**Mode:**  
+**Mode:** 
+ 
 We can find the number of occurrences of all the elements in the array:
 
  4978 : 1
